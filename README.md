@@ -1,1 +1,1 @@
-# my-netflix-clone
+# NetflixFrontend
